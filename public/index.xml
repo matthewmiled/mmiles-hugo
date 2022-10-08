@@ -3,40 +3,154 @@
         <title>MatthewMiles</title>
         <link>https://www.mmiles.co.uk/</link>
         <description>Matthew Miles</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://www.mmiles.co.uk/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>My Fourth Post</title>
-    <link>https://www.mmiles.co.uk/posts/my-fourth-post/</link>
-    <pubDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</pubDate>
+    <title>Creating a CI/CD workflow with GitHub actions and AWS</title>
+    <link>https://www.mmiles.co.uk/posts/cicd-github/</link>
+    <pubDate>Fri, 09 Sep 2022 00:00:00 &#43;0000</pubDate>
     <author>MattM</author>
-    <guid>https://www.mmiles.co.uk/posts/my-fourth-post/</guid>
-    <description><![CDATA[]]></description>
+    <guid>https://www.mmiles.co.uk/posts/cicd-github/</guid>
+    <description><![CDATA[Automating the process of building applications into docker images and deploying to a cluster.
+How do applications that are developed locally run in production? They need to be built into images The images need to be pushed to an image repository in the cloud The images need to be built into a container that can run on a virtual machine or pod in the cloud What tools can allow this?]]></description>
 </item>
 <item>
-    <title>My Third Post</title>
-    <link>https://www.mmiles.co.uk/posts/my-third-post/</link>
-    <pubDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</pubDate>
+    <title>Bao Buns</title>
+    <link>https://www.mmiles.co.uk/posts/bao_buns/</link>
+    <pubDate>Mon, 30 May 2022 00:00:00 &#43;0000</pubDate>
     <author>MattM</author>
-    <guid>https://www.mmiles.co.uk/posts/my-third-post/</guid>
-    <description><![CDATA[]]></description>
+    <guid>https://www.mmiles.co.uk/posts/bao_buns/</guid>
+    <description><![CDATA[A fluffy steamed dough served with braised pork belly, pickled vegetables and crushed peanuts. Ingredients Bao Bun Dough:
+600g plain flour
+350ml full fat milk
+3 tablespoons sugar
+7g yeast
+2 teaspoons baking powder
+1 teaspoon salt
+Pork Belly:
+1.5kg pork belly, cut into strips
+4 tablespoons soy sauce
+2 tablespoons oyster sauce
+1 tablespoon honey
+1 teaspoon hot sauce
+1 tablespoon hoisin
+3 tablespoons rice wine or rice vinegar]]></description>
 </item>
 <item>
-    <title>My Second Post</title>
-    <link>https://www.mmiles.co.uk/posts/my-second-post/</link>
-    <pubDate>Sat, 08 Oct 2022 14:10:09 &#43;0100</pubDate>
+    <title>Hanwell to Hammersmith</title>
+    <link>https://www.mmiles.co.uk/posts/hanwell_to_hammersmith/</link>
+    <pubDate>Sun, 22 May 2022 00:00:00 &#43;0000</pubDate>
     <author>MattM</author>
-    <guid>https://www.mmiles.co.uk/posts/my-second-post/</guid>
-    <description><![CDATA[Test 2 dasdasd]]></description>
+    <guid>https://www.mmiles.co.uk/posts/hanwell_to_hammersmith/</guid>
+    <description><![CDATA[A walk along the River Brent and Thames, passing through Brentford.
+Route This is the approximate route for the walk. You can see that it mostly follows the River Brent and Thames and finishes up in Hammersmith station.
+Sites The walk started in Hanwell, which is west of Ealing and south of Wembley. At the time of the walk, the Elizabeth line had just opened so it was also my first time on the new service.]]></description>
 </item>
 <item>
-    <title>My First Post</title>
-    <link>https://www.mmiles.co.uk/posts/my-first-post/</link>
-    <pubDate>Sat, 08 Oct 2022 14:03:10 &#43;0100</pubDate>
+    <title>Deploying a Django Web App to AWS Elastic Beanstalk</title>
+    <link>https://www.mmiles.co.uk/posts/deploying_django_to_awseb/</link>
+    <pubDate>Fri, 20 May 2022 00:00:00 &#43;0000</pubDate>
     <author>MattM</author>
-    <guid>https://www.mmiles.co.uk/posts/my-first-post/</guid>
-    <description><![CDATA[Hello World Test post
-print(&#39;Hello world&#39;) ]]></description>
+    <guid>https://www.mmiles.co.uk/posts/deploying_django_to_awseb/</guid>
+    <description><![CDATA[An experiment with an AWS service to host a Django app.
+In general, these are the key things that I wanted to achieve in order to say that a web app has been ‘deployed’:
+Support the use of a custom domain name.
+Support the use of HTTPS via SSL certificate.
+Auto redirect to HTTPS when there is any incoming traffic.
+Support the upload of images and ‘articles’ in django admin.]]></description>
+</item>
+<item>
+    <title>Burrito</title>
+    <link>https://www.mmiles.co.uk/posts/burrito/</link>
+    <pubDate>Sat, 16 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>MattM</author>
+    <guid>https://www.mmiles.co.uk/posts/burrito/</guid>
+    <description><![CDATA[The trick to making a burrito that doesn&rsquo;t fall apart or tear when rolling up is using the right tortillas. This recipe uses large, thin flour tortillas that are warmed up and then seared closed and wrapped in foil. The filling is a chicken, chorizo and black bean mixture.
+Ingredients Chicken marinade:
+4 chicken breasts or thighs
+2 dried ancho chillis, deseeded
+1 dried guajillo chilli, deseeded
+1 cascabel chilli, deseeded]]></description>
+</item>
+<item>
+    <title>Lasagne</title>
+    <link>https://www.mmiles.co.uk/posts/lasagne/</link>
+    <pubDate>Thu, 30 Sep 2021 00:00:00 &#43;0000</pubDate>
+    <author>MattM</author>
+    <guid>https://www.mmiles.co.uk/posts/lasagne/</guid>
+    <description><![CDATA[A very comforting classic with some americanised additions.
+Ingredients Ragu Bolognese:
+2 tablespoons extra virgin olive oil
+4 tablespoons butter
+500 - 750g packet of minced beef
+1 large packet of sausages, skinned (about 8 sausages)
+1 chopped large onion
+2 large carrots, peeled and diced
+3 large ribs celery, diced
+4 cloves garlic, finely minced
+Few chopped sage leaves
+Large pinch red pepper flakes (optional)
+1 can crushed Italian plum tomatoes]]></description>
+</item>
+<item>
+    <title>Chilli</title>
+    <link>https://www.mmiles.co.uk/posts/chilli/</link>
+    <pubDate>Thu, 19 Aug 2021 00:00:00 &#43;0000</pubDate>
+    <author>MattM</author>
+    <guid>https://www.mmiles.co.uk/posts/chilli/</guid>
+    <description><![CDATA[This recipes uses a homemade chilli paste made from whole dried chillies and whole pieces of beef from a cut such as shoulder or brisket. The majority of the cooking is done in a cast iron dutch oven and the 3 hour stint can be done on the hob or in a low-heated oven.
+Ingredients Dried chillis and spices:
+2 ancho chillis
+1 sweet pointed red pepper
+1 chipotle chilli]]></description>
+</item>
+<item>
+    <title>Sub Rolls</title>
+    <link>https://www.mmiles.co.uk/posts/sub-rolls/</link>
+    <pubDate>Tue, 20 Jul 2021 00:00:00 &#43;0000</pubDate>
+    <author>MattM</author>
+    <guid>https://www.mmiles.co.uk/posts/sub-rolls/</guid>
+    <description><![CDATA[This is my first experiment with enriched dough, and the result is a bread that is chewy and soft without the crusty exterior found with focaccia and typical baguettes. These are perfect for sandwiches and are best on the day of baking. Ingredients Makes 4 rolls:
+400g bread flour
+260ml semi-skimmed milk (65% hydration)
+8g diastatic malt powder
+20g olive oil
+8g salt
+6g instant yeast
+10g honey
+Toppings:]]></description>
+</item>
+<item>
+    <title>Chicken With Pan Sauce</title>
+    <link>https://www.mmiles.co.uk/posts/chicken-pan-sauce/</link>
+    <pubDate>Sat, 10 Jul 2021 00:00:00 &#43;0000</pubDate>
+    <author>MattM</author>
+    <guid>https://www.mmiles.co.uk/posts/chicken-pan-sauce/</guid>
+    <description><![CDATA[Searing the meat on the hob and finishing in the the same pan in the oven creates a crispy and browned outside, whithout drying out the chicken. Make sure to create the sauce in the same pan as the chicken is cooked in to introduce more browned flavour. Ingredients Cooking the chicken:
+1 large breast, thigh or leg per person (skin-on)
+Fresh sprigs of thyme
+Fresh sprigs of rosemary]]></description>
+</item>
+<item>
+    <title>Bagels</title>
+    <link>https://www.mmiles.co.uk/posts/bagels/</link>
+    <pubDate>Tue, 08 Jun 2021 00:00:00 &#43;0000</pubDate>
+    <author>MattM</author>
+    <guid>https://www.mmiles.co.uk/posts/bagels/</guid>
+    <description><![CDATA[Bagels use a much lower hydration dough than other lean dough recipes, and are also boiled before being baked. The result is a cripsy and blistered exterior with a bouncy interior. Eat within an hour of baking for the best results.
+Ingredients Creates 8 bagels:
+500g bread flour
+300g water (60% hydration)
+20g honey
+10g salt
+8g instant yeast
+Boiling water:
+Baking soda
+Honey
+Salt
+Toppings:
+Salt
+Black pepper]]></description>
 </item>
 </channel>
 </rss>

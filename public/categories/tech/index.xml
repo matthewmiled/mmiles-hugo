@@ -3,22 +3,27 @@
         <title>Tech - Category - MatthewMiles</title>
         <link>https://www.mmiles.co.uk/categories/tech/</link>
         <description>Tech - Category - MatthewMiles</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</lastBuildDate><atom:link href="https://www.mmiles.co.uk/categories/tech/" rel="self" type="application/rss+xml" /><item>
-    <title>My Fourth Post</title>
-    <link>https://www.mmiles.co.uk/posts/my-fourth-post/</link>
-    <pubDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.mmiles.co.uk/categories/tech/" rel="self" type="application/rss+xml" /><item>
+    <title>Creating a CI/CD workflow with GitHub actions and AWS</title>
+    <link>https://www.mmiles.co.uk/posts/cicd-github/</link>
+    <pubDate>Fri, 09 Sep 2022 00:00:00 &#43;0000</pubDate>
     <author>MattM</author>
-    <guid>https://www.mmiles.co.uk/posts/my-fourth-post/</guid>
-    <description><![CDATA[]]></description>
+    <guid>https://www.mmiles.co.uk/posts/cicd-github/</guid>
+    <description><![CDATA[Automating the process of building applications into docker images and deploying to a cluster.
+How do applications that are developed locally run in production? They need to be built into images The images need to be pushed to an image repository in the cloud The images need to be built into a container that can run on a virtual machine or pod in the cloud What tools can allow this?]]></description>
 </item>
 <item>
-    <title>My First Post</title>
-    <link>https://www.mmiles.co.uk/posts/my-first-post/</link>
-    <pubDate>Sat, 08 Oct 2022 14:03:10 &#43;0100</pubDate>
+    <title>Deploying a Django Web App to AWS Elastic Beanstalk</title>
+    <link>https://www.mmiles.co.uk/posts/deploying_django_to_awseb/</link>
+    <pubDate>Fri, 20 May 2022 00:00:00 &#43;0000</pubDate>
     <author>MattM</author>
-    <guid>https://www.mmiles.co.uk/posts/my-first-post/</guid>
-    <description><![CDATA[Hello World Test post
-print(&#39;Hello world&#39;) ]]></description>
+    <guid>https://www.mmiles.co.uk/posts/deploying_django_to_awseb/</guid>
+    <description><![CDATA[An experiment with an AWS service to host a Django app.
+In general, these are the key things that I wanted to achieve in order to say that a web app has been ‘deployed’:
+Support the use of a custom domain name.
+Support the use of HTTPS via SSL certificate.
+Auto redirect to HTTPS when there is any incoming traffic.
+Support the upload of images and ‘articles’ in django admin.]]></description>
 </item>
 </channel>
 </rss>
