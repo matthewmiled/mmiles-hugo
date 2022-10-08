@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - MatthewMiles</title>
-        <link>http://example.org/categories/</link>
+        <link>https://www.mmiles.co.uk/categories/</link>
         <description>Categories - Category - MatthewMiles</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</lastBuildDate><atom:link href="https://www.mmiles.co.uk/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Cooking</title>
-    <link>http://example.org/categories/cooking/</link>
+    <link>https://www.mmiles.co.uk/categories/cooking/</link>
     <pubDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</pubDate>
     <author>MattM</author>
-    <guid>http://example.org/categories/cooking/</guid>
+    <guid>https://www.mmiles.co.uk/categories/cooking/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Tech</title>
-    <link>http://example.org/categories/tech/</link>
+    <link>https://www.mmiles.co.uk/categories/tech/</link>
     <pubDate>Sat, 08 Oct 2022 14:25:11 &#43;0100</pubDate>
     <author>MattM</author>
-    <guid>http://example.org/categories/tech/</guid>
+    <guid>https://www.mmiles.co.uk/categories/tech/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
