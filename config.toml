@@ -3,3 +3,81 @@ languageCode = 'en-us'
 title = 'MatthewMiles'
 
 theme = "LoveIt"
+
+# Author config
+[author]
+  name = "MattM"
+
+# Menu config
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = "Posts"
+  [[menu.main]]
+    weight = 2
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    title = "Categories"
+
+[params]
+  defaultTheme = "light"
+  dateFormat = "2006-01-02"
+  # website title for Open Graph and Twitter Cards
+  title = "Matthew Miles"
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+  description = "Matthew Miles"
+
+  # Header config
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      # URL of the LOGO
+      # title name
+      name = "MMiles"
+
+  [params.section]
+    # date format (month and day)
+    dateFormat = "Jan 2006"
+
+  [params.search]
+    enable = true
+    # type of search engine ["lunr", "algolia"]
+    type = "lunr"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = "Search..."
+    # LoveIt NEW | 0.2.1 max number of results length
+    maxResultLength = 10
+    # LoveIt NEW | 0.2.3 snippet length of the result
+    snippetLength = 30
+    # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+
+  # Home page config
+  [params.home]
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      title = "Matthew Miles"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "I'm a Software Engineer based in London."
+      # whether to use typeit animation for subtitle
+      typeit = false
+      # whether to show social links
+      social = true
+
+  # Social config about the author
+  [params.social]
+    GitHub = "matthewmiled"
+    Linkedin = "matthewmiles23"
+
+
